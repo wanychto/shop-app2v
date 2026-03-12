@@ -4,7 +4,7 @@
         "title": "Смарт-часы X100",
         "price": 7490,
         "category": "Гаджеты",
-        "image": "./public/img/example1.png",
+        "image": "/shop-app2v/img/example1.png",
         "description": "Водонепроницаемые, GPS, 7-дневный аккумулятор"
     },
     {
@@ -12,7 +12,7 @@
         "title": "Компьютерная мышь Razor M3020",
         "price": 3990,
         "category": "Переферия и аксессуары",
-        "image": "./public/img/example2.jpg",
+        "image": "/shop-app2v/img/example2.jpg",
         "description": "Проводная, 32000dpi, светодиодный сенсор"
     },
     {
@@ -20,7 +20,7 @@
         "title": "Игровая клавиатура Defender GX-2030",
         "price": 2190,
         "category": "Переферия и аксессуары",
-        "image": "./public/img/example3.png",
+        "image": "/shop-app2v/img/example3.png",
         "description": "Раскладка русская/английская, интерфейс подключения USB"
     },
     {
@@ -28,7 +28,7 @@
         "title": "Игровые наушники SVEN AP-UV9988",
         "price": 4799,
         "category": "Переферия и аксессуары",
-        "image": "./public/img/example4.png",
+        "image": "/shop-app2v/img/example4.png",
         "description": "Проводные, максимальная частота 20000Гц, чувствительность 108дБ"
     },
     {
@@ -36,7 +36,7 @@
         "title": "Умные часы T5E",
         "price": 1229,
         "category": "Гаджеты",
-        "image": "./public/img/example5.jpg",
+        "image": "/shop-app2v/img/example5.jpg",
         "description": "Влагоупорные, диаметр корпуса 41мм, GPS"
     }
 ]
