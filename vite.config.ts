@@ -4,5 +4,8 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'shop-app2v'
+  base: '/shop-app2v/',
+  build: {
+    outDir: 'dist'
+  }
 })
